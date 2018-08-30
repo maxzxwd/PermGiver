@@ -1,0 +1,10 @@
+name: PermGiver
+authors: [maxzxwd]
+depend: [PermissionsEx]
+
+main: com.maxzxwd.permgiver.PermGiver
+version: 1.00
+
+commands:
+  givex:
+    usage: /<command> [group] [player]
